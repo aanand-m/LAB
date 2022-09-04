@@ -1,3 +1,7 @@
+// Implement Recursive Binary search and Linear search and determine the time required to search
+// an element. Repeat the experiment for different values of N and plot a graph of the time taken
+// versus N. 
+
 #include <stdio.h> 
 #include<time.h>
 #include<stdlib.h> 
